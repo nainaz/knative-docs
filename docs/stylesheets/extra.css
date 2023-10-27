@@ -158,7 +158,7 @@ a.md-header__button.md-logo img {
 }
 
 .md-banner {
-  background: #fff5b5;
+  background: #FF67E7;
 }
 
 .md-banner .versionwarning h1 {
@@ -171,7 +171,7 @@ a.md-header__button.md-logo img {
 
 .md-banner .announcement {
   color: black;
-  background-color: #FFE6FB;
+  background-color: #FF67E7;
   display: flex;
   justify-content: center;
   font-size: 16px;
